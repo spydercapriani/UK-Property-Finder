@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06021e7c-da64-4d1a-b6e7-d0ac1b63da5a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchResults.js" afterPath="$PROJECT_DIR$/SearchResults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PropertyView.js" afterPath="$PROJECT_DIR$/PropertyView.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchResults.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchResults.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SearchResults.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
+            <state relative-caret-position="739">
               <caret line="95" column="6" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
               <folding>
                 <element signature="e#15#56#0" expanded="true" />
@@ -53,12 +53,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyView.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PropertyView.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PropertyView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="26" column="61" lean-forward="true" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+              <folding>
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,20 +195,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508174629257</updated>
-      <workItem from="1508174630506" duration="8517000" />
+      <workItem from="1508174630506" duration="8712000" />
     </task>
+    <task id="LOCAL-00001" summary="Added PropertyView">
+      <created>1508191001703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508191001703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8517000" />
+    <option name="totallyTimeSpent" value="8712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1058" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09531312" sideWeight="0.49636552" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09531312" sideWeight="0.50363445" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.403946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -227,6 +238,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added PropertyView" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added PropertyView" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -261,21 +276,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SearchResults.js">
+    <entry file="file://$PROJECT_DIR$/PropertyView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="6" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+        <state relative-caret-position="390">
+          <caret line="26" column="61" lean-forward="true" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
           <folding>
-            <element signature="e#15#56#0" expanded="true" />
+            <element signature="e#15#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PropertyView.js">
+    <entry file="file://$PROJECT_DIR$/SearchResults.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="739">
+          <caret line="95" column="6" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
