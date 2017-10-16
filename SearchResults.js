@@ -53,7 +53,7 @@ export default class SearchResults extends Component {
 
     _onPressItem = (index) => {
         this.props.navigator.push({
-            title: "Property",
+            title: this.props.listings[index].title,
             component: PropertyView,
             passProps: {
                 property: this.props.listings[index]
