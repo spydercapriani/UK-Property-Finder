@@ -10,6 +10,8 @@ import {
     Text,
 } from 'react-native';
 
+import PropertyView from './PropertyView';
+
 class ListItem extends React.PureComponent {
     _onPress = () => {
         this.props.onPressItem(this.props.index);
@@ -48,9 +50,15 @@ export default class SearchResults extends Component {
             onPressItem={this._onPressItem}
         />
     );
-    
+
     _onPressItem = (index) => {
-        console.log("Pressed row: " + index);
+        this.props.navigator.push({
+            title: "Property",
+            component: PropertyView,
+            passProps: {
+                property: this.props.listings[index]
+            }
+        });
     };
 
     render() {
